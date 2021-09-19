@@ -1,0 +1,13 @@
+DESCRIPCION DEL PROYECTO 
+Se propone analizar, diseñar y construir una aplicación software que permita controlar las ventas 
+físicas y virtuales de una empresa de manufactura y hacerles el correspondiente seguimiento.
+
+DESCRIPCION JUAN CHAVEZ
+Mi nombre es Juan Manuel Chavez Solarte, soy de la ciudad de Cali valle del cauca, 
+actualmente soy estudiante de administracion de de empresas en Universidad Libre Seccional Cali, 
+y estoy cursando el programa de MisionTic en la Universidad de Antioquia. Me paciona franparte de 
+los temas referentes a la tecnologia, soy comprometido y mes gusta ser eficiente
+
+ROL EN EL EQUIPO
+Scrum Mater: Juan Manuel Chávez Solarte - juanmanuelchavezsolarte21@gmail.com
+Desarrollador: Juan Manuel Chávez Solarte - juanmanuelchavezsolarte21@gmail.com
