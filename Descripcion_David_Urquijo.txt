@@ -1,0 +1,15 @@
+Descripcion del Proyecto:
+Se propone analizar, diseñar y construir una aplicación de software que permita controlar la ventas fiscas y virtuales de una empresa de manufactura y hacerles el correspondiente seguimiento.
+Descripcion David Urquijo:
+Nombre: David Esteban Urquijo Hernandez
+Edad: 24 años
+Celular: 3507816996
+correo:daurquijoh@gmail.com
+
+Soy una persona alegre, que le ggusta trabajar en equipo, eprender todos los dias algo nuevo. 
+Considero que la felicidad y la actitud que uno toma frente a las situaciones es lo que marca los resultados en cauunto a lo que nos proponemos.
+Soy estudiantes de Ingenieria de Software y trabajo como representante de Mercado Libre via chat.
+Me gusta el deporte y los videojuegos.
+
+
+
