@@ -1,0 +1,5 @@
+DESCRIPCIÓN DEL PROYECTO
+Se propone analizar, diseñar y construir una aplicación de software que permita controlar la ventas fiscas y virtuales de una empresa de manufactura y hacerles el correspondiente seguimiento.
+
+DESCRIPCION MAYCOL VASQUEZ
+Mi nombre es Maycol Vasquez, tengo 33 años, vivo en la ciudad de Medellin, estudio una Tecnología en desarrollo de software en la Institución Universitaria digital de Antioquia. Respecto a mis pasatiempos, me gusta mucho leer, los videos juegos, el anime. Una de las motivaciones que tengo al estar en este programa de misón TIC, es fortalecer mis conocimientos en programación y espero algún día poder paticipar en algún prouecto para el de sarrollo de un video juego o si se da la oportunidad emprender en ese tema. 
